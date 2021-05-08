@@ -35,7 +35,7 @@ Top ending locations in NYC
 ![end](ending_nyc.png)
 
 
-## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+## Summary: 
 
 The data shows high activity of the bike sharing service in New York during the month of August 2019.
 The far majority of the rides were in the very busy Manhattan Island, taken by male users during morning and evening rush hours. This implies that Citi Bike services are used as an alternative to public transportation by commuting workers.
