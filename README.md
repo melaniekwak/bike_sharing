@@ -4,7 +4,7 @@
 We are creating a story to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
 
 ## Results: 
-[link to dashboard](https://public.tableau.com/profile/melanie.kwak#!/vizhome/citibike_challenge_16196425145110/Story1?publish=yes) 
+[link to tableau dashboard](https://public.tableau.com/profile/melanie.kwak#!/vizhome/citibike_challenge_16196425145110/Story1?publish=yes) 
 
 Checkout times for users
 
